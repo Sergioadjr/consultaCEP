@@ -28,7 +28,7 @@ mvn install
 ```
 ## Desmonstração
 
-*ADICIONAR GIF* 
+![Alt Text](./src/assets/consultaCEP.gif)
 
 ## Como Usar
 
